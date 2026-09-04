@@ -5,11 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -18,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
 
       - name: Push Snake SVG
-        uses: peaceiris/actions-gh-pages@v4
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
