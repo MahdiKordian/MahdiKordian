@@ -115,7 +115,7 @@ I operate primarily within the Python ecosystem and leverage modern frameworks i
 ## 📚 Courses & Certifications
 
 <p align="center">
-  <strong>18 credentials · Python → Data → ML → DL → Vision → Generative AI → Agents → MLOps</strong>
+  Python → Data → ML → DL → Computer Vision → Generative AI → Agents → MLOps
 </p>
 
 <div align="center">
@@ -126,16 +126,16 @@ I operate primarily within the Python ecosystem and leverage modern frameworks i
 #### PYTHON & ENGINEERING
 
 `01` **Python Programming — Beginner**  
-[Course ↗](https://maktabkhooneh.org/course/آموزش-برنامه-نویسی-با-پایتون-مقدماتی-mk346/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/آموزش-برنامه-نویسی-با-پایتون-مقدماتی-mk346/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/python-programming.png)
 
 `02` **Object-Oriented Python**  
-[Course ↗](https://maktabkhooneh.org/course/شیء-گرایی-پایتون-mk2032/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/شیء-گرایی-پایتون-mk2032/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/python-oop.png)
 
 `03` **Parallel Processing with Python**  
-[Course ↗](https://maktabkhooneh.org/course/پردازش-موازی-پایتون-mk1346/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/پردازش-موازی-پایتون-mk1346/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/python-parallel-processing.png)
 
-`04` **Git — Jadi**  
-[Course ↗](https://maktabkhooneh.org/course/آموزش-گیت-جادی-mk12029/) · [Certificate ↗](https://github.com/MahdiKordian)
+`04` **Git — GitHub**  
+[Course ↗](https://maktabkhooneh.org/course/آموزش-گیت-جادی-mk12029/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/git-github.png)
 
 </td>
 <td width="50%" valign="top">
@@ -143,13 +143,13 @@ I operate primarily within the Python ecosystem and leverage modern frameworks i
 #### DATA & SCIENTIFIC COMPUTING
 
 `05` **NumPy**  
-[Course ↗](https://maktabkhooneh.org/course/آموزش-رایگان-numpy-mk1215/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/آموزش-رایگان-numpy-mk1215/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/numpy.png)
 
 `06` **Pandas**  
-[Course ↗](https://maktabkhooneh.org/course/آموزش-رایگان-pandas-mk727/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/آموزش-رایگان-pandas-mk727/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/pandas.png)
 
 `07` **Matplotlib & Seaborn**  
-[Course ↗](https://maktabkhooneh.org/course/تسلط-مصور-سازی-داده-پایتون-matplotlib-seaborn-mk11748/) · [Certificate ↗](https://github.com/MahdiKordian)
+[Course ↗](https://maktabkhooneh.org/course/تسلط-مصور-سازی-داده-پایتون-matplotlib-seaborn-mk11748/) · [Certificate ↗](https://github.com/MahdiKordian/MahdiKordian/blob/main/certificates/python-data-visualization.png)
 
 `08` **FastAPI**  
 [Course ↗](https://maktabkhooneh.org/course/آموزش-طراحی-سرویس-fastapi-mk10645/) · [Certificate ↗](https://github.com/MahdiKordian)
@@ -295,7 +295,5 @@ Predicting diabetes using corneal eye imagery and deep learning models.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:00B4D8&height=120&section=footer&animation=fadeIn"/>
-
-**Open to opportunities in Artificial Intelligence and Machine Learning.**
 
 </div>
