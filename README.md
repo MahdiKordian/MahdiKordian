@@ -20,7 +20,9 @@
 </a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=MahdiKordian&label=Profile+Views&color=00B4D8&style=flat" />
+
+<img src="https://shieldcn.dev/views/user/MahdiKordian.svg?base=3769&color=00B4D8&labelColor=0A192F&valueColor=FFFFFF&labelTextColor=FFFFFF&variant=default" alt="Profile Views" />
+
 
 </div>
 
