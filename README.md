@@ -44,53 +44,53 @@ I operate primarily within the Python ecosystem and leverage modern frameworks i
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="assets/icons/python.svg" width="50" height="50"/>
 <br/><sub><b>Python</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+<img src="assets/icons/linux.svg" width="50" height="50"/>
 <br/><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+<img src="assets/icons/pytorch.svg" width="50" height="50"/>
 <br/><sub><b>PyTorch</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+<img src="assets/icons/tensorflow.svg" width="50" height="50"/>
 <br/><sub><b>TensorFlow</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/>
+<img src="assets/icons/keras.svg" width="50" height="50"/>
 <br/><sub><b>Keras</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
+<img src="assets/icons/huggingface.svg" width="50" height="50"/>
 <br/><sub><b>Hugging Face</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+<img src="assets/icons/numpy.svg" width="50" height="50"/>
 <br/><sub><b>NumPy</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="assets/icons/pandas.svg" width="50" height="50"/>
 <br/><sub><b>Pandas</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+<img src="assets/icons/matplotlib.svg" width="50" height="50"/>
 <br/><sub><b>Matplotlib</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
+<img src="assets/icons/seaborn.svg" width="50" height="50"/>
 <br/><sub><b>Seaborn</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+<img src="assets/icons/opencv.svg" width="50" height="50"/>
 <br/><sub><b>OpenCV</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="assets/icons/docker.svg" width="50" height="50"/>
 <br/><sub><b>Docker</b></sub>
 </td>
 </tr>
